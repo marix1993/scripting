@@ -40,22 +40,3 @@
 # print(os.getcwd())
 
 # os.mkdir("new_dir") - making new folder
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
